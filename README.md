@@ -1,2 +1,2 @@
-# PatelKita
+# PastelKita
 Website PastelKita
